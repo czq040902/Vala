@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as n,ah as l}from"./chunks/framework.DeYX_sqr.js";const c=JSON.parse('{"title":"Volta","description":"","frontmatter":{},"headers":[],"relativePath":"volta.md","filePath":"volta.md"}'),t={name:"volta.md"};function e(h,s,p,o,r,k){return n(),i("div",null,[...s[0]||(s[0]=[l("",5)])])}const g=a(t,[["render",e]]);export{c as __pageData,g as default};

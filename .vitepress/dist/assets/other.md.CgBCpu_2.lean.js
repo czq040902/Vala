@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as e,ah as t}from"./chunks/framework.DeYX_sqr.js";const c=JSON.parse('{"title":"其他补充","description":"","frontmatter":{},"headers":[],"relativePath":"other.md","filePath":"other.md"}'),n={name:"other.md"};function l(p,s,h,r,o,k){return e(),i("div",null,[...s[0]||(s[0]=[t("",8)])])}const E=a(n,[["render",l]]);export{c as __pageData,E as default};
